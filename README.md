@@ -1,4 +1,4 @@
-# My Paper Title
+# Incentives for Federated Learning: a Hypothesis Elicitation Approach
 
 This repository is the official implementation of [Incentives for Federated Learning: a Hypothesis Elicitation Approach] (paper ID: 4657). 
 
