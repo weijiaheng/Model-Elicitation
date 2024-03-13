@@ -1,6 +1,6 @@
-# Incentives for Federated Learning: a Hypothesis Elicitation Approach
+# Auditing for Federated Learning: A Model Elicitation Approach
 
-This repository is the official implementation of [Incentives for Federated Learning: a Hypothesis Elicitation Approach] (paper ID: 4657). 
+This repository is the official implementation of [[Auditing for Federated Learning: A Model Elicitation Approach]](https://dl.acm.org/doi/abs/10.1145/3627676.3627683), published in Distributed AI (DAI) 2023. 
 
 
 ## Required Packages & Environment
